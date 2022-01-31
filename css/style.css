@@ -1,0 +1,34 @@
+.nav__link {
+	color: coral;
+}
+.description {
+	color:red ;
+}
+h2.title{
+	color: darksalmon;
+}
+[title] {
+	color: blue;
+}
+.description__text {
+	color: darkblue;
+}
+main > h2{
+	color: olive;
+}
+#subtitle-advertising{
+	color: gold;
+}
+.subtitle__card {
+	color: darkolivegreen;
+}
+.description__card {
+	color: fuchsia;
+}
+.footer {
+	color: forestgreen;
+}
+.tel + a , 
+.footer__copyright {
+	color: deepskyblue;
+}
